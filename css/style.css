@@ -233,7 +233,6 @@ img{
 }
 
 .home{
-    min-width: 100vh;
     padding: 150px 0;
     background-color: var(--main-to-dark-color);
     position: relative;
